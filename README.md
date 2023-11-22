@@ -1,22 +1,19 @@
 # React Split Pane
 
-[![NPM version](https://img.shields.io/npm/v/react-split-pane.svg?style=flat)](https://www.npmjs.com/package/react-split-pane)
-![NPM license](https://img.shields.io/npm/l/react-split-pane.svg?style=flat)
-[![NPM total downloads](https://img.shields.io/npm/dt/react-split-pane.svg?style=flat)](https://npmcharts.com/compare/react-split-pane?minimal=true)
-[![NPM monthly downloads](https://img.shields.io/npm/dm/react-split-pane.svg?style=flat)](https://npmcharts.com/compare/react-split-pane?minimal=true)
-![Build Test](https://github.com/tomkp/react-split-pane/workflows/Build%20Test/badge.svg)
-[![Coverage Status](https://img.shields.io/coveralls/tomkp/react-split-pane/master.svg?style=flat)](https://coveralls.io/r/tomkp/react-split-pane)
+### About
+
+This is a forked version of [react-split-pane](https://github.com/tomkp/react-split-pane) compatible with React 18.
 
 Split-Pane React component, can be nested or split vertically or horizontally!
 
 ## Installing
 
 ```sh
-npm install react-split-pane
+npm install react18-split-pane
 
 # or if you use yarn
 
-yarn add react-split-pane
+yarn add react18-split-pane
 ```
 
 ## Example Usage
